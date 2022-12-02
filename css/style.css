@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f2f6;
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+    margin: 0 auto;
+    padding-left: 16%;
+}
+
+
+.left {
+    width: 42%;
+    float: left;
+    padding-top: 14%;
+
+    color: black;
+    font-size: 28px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.separacion {
+    padding-top: 2%;
+    margin: 0 auto;
+}
+
+.right {
+    width: 55%;
+    float: right;
+    padding-top: 10%;
+    padding-left: 3%;
+    color: black;
+    font-size: 30px;
+    margin: 0;
+}
+
+
+.ctr p {
+    margin: 1%;
+}
+
+
+.cb {
+    clear: both;
+}
+
+.crd {
+    padding-top: 1%;
+    padding-left: 70%;
+    color: black;
+    font-size: 30px;
+    box-sizing: content-box;
+}
+
+
+
+.list {
+    background-color: white;
+    width: 58%;
+    height: 350px;
+
+    -webkit-box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.75);
+    border-radius: 8px;
+    border-color: none;
+
+
+
+}
+
+.list input {
+    margin: 2% 4% 2%;
+    width: 92%;
+    border-radius: 3px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    padding: 16px 14px;
+    font-size: 16px;
+    border: 1px solid rgb(222, 217, 217);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+
+
+
+
+.list input:focus {
+    outline: none;
+    border: 3px solid rgb(0, 149, 255);
+
+
+}
+
+
+
+
+button {
+    font-size: 20px;
+    border-radius: 2px;
+    border: none;
+    padding: 12px 14px;
+    margin-left: 4%;
+    border-radius: 2px;
+    border: none;
+    background-color: #166fe5;
+    color: white;
+    width: 92%;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+
+.button2 {
+
+    border-radius: 2px;
+    border: none;
+    padding: 14px 14px;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 2px;
+    border: none;
+    background-color: #43b825;
+    color: white;
+    width: 48%;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.list a {
+    font-size: medium;
+    padding: 12%;
+    margin-left: 10%;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-bottom: 6%;
+    border-bottom: 1px solid rgb(195, 192, 192);
+    width: 100%;
+    color: #166fe5;
+
+}
+
+.list p {
+    margin: 0;
+
+}
+
+#parrafo {
+
+    font-size: 14px;
+    padding-left: 1%;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-bottom: 6%;
+
+
+}
